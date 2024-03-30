@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dadiaz24&label=Profile%20views&color=0e75b6&style=flat" alt="dadiaz24" /> </p>
 
-- 🔭 I’m currently working on **accountant enterprise named fiscomelres.**
+- 🔭 Currently working as accountant assistant.**
 
-- 🌱 I’m currently learning **C language.**
+- 🌱 Currently learning programming at 42 Porto.**
 
 - 👯 I’m looking to work in **programming in a nearby future.**
 

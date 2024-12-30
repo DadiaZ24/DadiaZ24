@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dadiaz24&label=Profile%20views&color=0e75b6&style=flat" alt="dadiaz24" /> </p>
 
-- 🔭 Currently working as accountant assistant.**
+- 🔭 Currently working in web development (full-stack) as freelancer, under the languages C#, rust, react, typescript, html and css**
 
 - 🌱 Currently learning programming at 42 Porto.**
 

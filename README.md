@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **full-stack web development**
 - 🌱 I’m currently learning **C and C++ @ 42Porto, and C# by myself**
 - 👯 I’m looking to collaborate on **C# projects**
-- 👨‍💻 My projects are available at [GitHub](https://github.com/dot99)
+- 👨‍💻 My projects are available at [GitHub](https://github.com/dadiaz24)
 - 💬 Ask me about **anything, and we’ll try to build it together!**
 - 📫 Reach me at **diogo-uds@hotmail.com**
 - ⚡ Fun fact: **I love cooking!**

@@ -33,7 +33,7 @@ I spent six years as an accounting technician before switching to software at **
 
 | Game | |
 |---|---|
-| [**The Final Feather**](https://github.com/DadiaZ24/The-Final-Feather-game-) · C# | The last duck of its kind against endless hordes. Survive while the light fades, unlock abilities and beat your own record. |
+| [**The Final Feather**](https://github.com/DadiaZ24/The-Final-Feather-game-) · C# | The last sparrow of its kind against endless hordes. Survive while the light fades, unlock abilities and beat your own record. |
 | [**Elixir of the End**](https://github.com/DadiaZ24/Elixir-of-the-End) · Godot | A 3D game built in Godot with sculpted terrain and an inventory system. |
 
 ### 🛠️ Tech stack

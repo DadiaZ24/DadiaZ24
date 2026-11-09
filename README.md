@@ -20,7 +20,6 @@ I spent six years as an accounting technician before switching to software at **
 - 🧾 **Building [Tenanta](https://tenanta.pt)**: a cloud-native, multi-tenant platform for Portuguese accounting firms. Client records, fiscal deadlines, control maps and payment guides in one place.
 - 🎓 **Teaching**: Workshop Leader at **TUMO Porto** (game dev, AI, programming) and AI trainer at **Shaken Academy**.
 - 🎮 **Making games**: game jams with friends, and a co-op restaurant game in the works.
-- 📚 **Studying** Informatics Engineering at **ISEP**.
 
 ### 🧾 Tenanta under the hood
 
